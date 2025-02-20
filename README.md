@@ -19,7 +19,7 @@ How this program shows password strength:
 ### Requirements
 - Java Development Kit (JDK) 8 or higher
 - IntelliJ IDEA or Eclipse IDE
-- might require to have git or github desktop on your computer
+- might require to have git or GitHub desktop on your computer
 
 ### How to Run
 
